@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://humanexpenditureprogram.github.io/sitemap.xml
